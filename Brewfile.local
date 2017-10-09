@@ -1,20 +1,17 @@
-cask 'firefox'
-cask 'iterm2'
-
-
-brew 'bat'
-
+brew 'awscli'
 brew 'go'
-
-brew 'diff-so-fancy'
-
-brew 'exa'
-
-brew 'fd'
-
+brew 'jq'
+brew 'oh-my-zsh'
 brew 'tree'
-
 brew 'vim'
-
+brew 'yarn'
 brew 'zsh-syntax-highlighting'
 
+cask 'alfred2'
+cask 'cyberduck'
+cask 'firefox'
+cask 'google-chrome'
+cask 'iterm2'
+cask 'psequel'
+cask 'sizeup'
+cask 'visual-studio-code'

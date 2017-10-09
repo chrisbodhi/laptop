@@ -91,6 +91,28 @@ What it sets up
 * [Zsh] as your shell
 
 
+to add:
+
+## via brew
+- [x] yarn
+- [x] awscli
+- [x] jq
+- [x] tree
+- [x] oh-my-zsh
+- [x] zsh-syntax-highlighting
+
+## via brew cask
+- [x] visual-studio-code
+- [ ] alfred v2.9 _unsure if this will work_
+- [x] sizeup
+- [x] google-chrome
+- [x] cyberduck
+- [x] psequel
+
+## setup
+- [x] add syntax highlighting: https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
+
+
 [Bundler]: http://bundler.io/
 [chruby]: https://github.com/postmodern/chruby
 [CloudApp]: http://getcloudapp.com/

@@ -11,3 +11,5 @@ if [ -f "$HOME/Brewfile.local" ]; then
 fi
 
 append_to_file "$HOME/.zshrc" 'export PATH="$PATH:/usr/local/opt/go/libexec/bin"'
+
+append_to_file "$HOME/.zshrc 'source #{HOMEBREW_PREFIX}/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh'"
