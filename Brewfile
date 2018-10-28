@@ -15,6 +15,9 @@ brew 'phantomjs'
 
 brew 'hub'
 
-cask 'cloud'
+tap 'cloudfoundry/homebrew-tap'
+brew 'cf-cli'
+
+cask 'cloudapp'
 cask 'flux'
 cask 'slack'
