@@ -94,20 +94,24 @@ What it sets up
 to add:
 
 ## via brew
-- [x] yarn
 - [x] awscli
+- [x] bat
+- [x] exa
+- [x] fd
 - [x] jq
-- [x] tree
 - [x] oh-my-zsh
+- [x] tldr
+- [x] tree
 - [x] zsh-syntax-highlighting
 
 ## via brew cask
-- [x] visual-studio-code
-- [ ] alfred v2.9 _unsure if this will work_
-- [x] sizeup
-- [x] google-chrome
+- [x] alfred v2.9
 - [x] cyberduck
+- [x] google-chrome
+- [x] iterm2
 - [x] psequel
+- [x] sizeup
+- [x] visual-studio-code
 
 ## setup
 - [x] add syntax highlighting: https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
